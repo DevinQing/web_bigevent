@@ -53,5 +53,5 @@
     })
 
 
-
+    window.getUserInfo = getUserInfo
 })();
